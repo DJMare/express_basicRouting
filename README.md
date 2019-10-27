@@ -31,8 +31,8 @@ VS CODE
 ![add an array of objects of different users (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629332-381cac80-f831-11e9-83e5-fe26c3959c62.JPG)
 
 
+(12) Navigate to the routes/index.js file and update. Need to require the model/users.js file into the routes/index.js: ![open index js file (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629347-73b77680-f831-11e9-97be-6f9d002a74ac.JPG)
 
-(12) Navigate to the routes/index.js file and update. Need to require the model/users.js file into the routes/index.js: 
 
 
 (13) Navigate to the views/index.hbs file and update to show the user information: 
