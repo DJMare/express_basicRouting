@@ -21,8 +21,7 @@ COMMAND PROMPT
 
 (9) Start the server with Nodemon with the following command: nodemon
 
-(10) Open in VS code
-
+(10) Open in VS code: ![open in vs code (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629301-e1af6e00-f830-11e9-9e0f-a5e93e5b64f2.JPG)
 
 
 VS CODE
