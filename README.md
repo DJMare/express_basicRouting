@@ -43,4 +43,5 @@ VS CODE
 
 WEB BROWSER
 
-(13) In your web browser, navigate to localserver:3000 and look up a specific user id to see changes: 
+(13) In your web browser, navigate to localserver:3000 and look up a specific user id to see changes: ![navigate to specific user id in web browser localhost3000 to see user data (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629400-41f2df80-f832-11e9-9798-2c545404b9d3.JPG)
+
