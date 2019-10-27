@@ -36,7 +36,8 @@ VS CODE
 ![update index js file (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629355-9cd80700-f831-11e9-9f79-ef5f1916c4b0.JPG)
 
 
-(13) Navigate to the views/index.hbs file and update to show the user information: 
+(13) Navigate to the views/index.hbs file and update to show the user information: ![open index hbs file (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629372-c7c25b00-f831-11e9-80f2-ff546d7ea6cc.JPG)
+
 
 
 WEB BROWSER
