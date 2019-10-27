@@ -21,18 +21,19 @@ COMMAND PROMPT
 
 (9) Start the server with Nodemon with the following command: nodemon
 
-(10) Open in VS code: code . 
+(10) Open in VS code
 
 
 
 VS CODE
+(11) Create a 'models' folder at the root level of the project. Then, create a file named users.js where the data is modeled out. Add an array of objects of different "users" in the application
 
-(11) Navigate to the routes/index.js file and add an array of objects: 
+(12) Navigate to the routes/index.js file and update. Need to require the model/users.js file into the routes/index.js: 
 
 
-(12) Navigate to the routes/index.hbs file and update to show the array of objects: 
+(13) Navigate to the views/index.hbs file and update to show the user information: 
 
 
 WEB BROWSER
 
-(13) In your web browser, navigate to localserver:3000 to see changes: 
+(13) In your web browser, navigate to localserver:3000 and look up a specific user id to see changes: 
