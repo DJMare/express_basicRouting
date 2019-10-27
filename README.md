@@ -38,6 +38,7 @@ VS CODE
 
 (13) Navigate to the views/index.hbs file and update to show the user information: ![open index hbs file (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629372-c7c25b00-f831-11e9-80f2-ff546d7ea6cc.JPG)
 
+![update index hbs file to show user data (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629380-f17b8200-f831-11e9-80e4-4f42fcd3df3b.JPG)
 
 
 WEB BROWSER
