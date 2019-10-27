@@ -25,7 +25,9 @@ COMMAND PROMPT
 
 
 VS CODE
-(11) Create a 'models' folder at the root level of the project. Then, create a file named users.js where the data is modeled out. Add an array of objects of different "users" in the application
+
+(11) Create a 'models' folder at the root level of the project. Then, create a file named users.js where the data is modeled out. Add an array of objects of different "users" in the application: ![create models folder and users js file (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629313-0e638580-f831-11e9-88ee-6c63e066d32d.JPG)
+
 
 (12) Navigate to the routes/index.js file and update. Need to require the model/users.js file into the routes/index.js: 
 
