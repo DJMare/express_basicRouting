@@ -3,23 +3,41 @@ A basic express app that based on the URL, displays different data onto the page
 
 COMMAND PROMPT
 
-(1) Run the following to navigate to your Desktop: cd Desktop
+(1) Run the following to navigate to your Desktop: 
 
-(2) Create a new folder on desktop: mkdir Express
+    cd Desktop
 
-(3) Navigate to the Express directory: cd Express
+(2) Create a new folder on desktop: 
 
-(4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
+    mkdir Express
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_basicRouting: express --view=hbs express_basicRouting
+(3) Navigate to the Express directory: 
 
-(6) Once the process is complete, navigate into the express_basicRouting directory: cd express_basicRouting 
+    cd Express
 
-(7) Now in the express_basicRouting directory, run the following: npm install
+(4) Run the following command to install the Express generator globally onto your computer: 
 
-(8) Install Nodemon globally: npm install -g nodemon
+    npm install express-generator -g
 
-(9) Start the server with Nodemon with the following command: nodemon
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_basicRouting: 
+
+    express --view=hbs express_basicRouting
+
+(6) Once the process is complete, navigate into the express_basicRouting directory: 
+
+  cd express_basicRouting 
+
+(7) Now in the express_basicRouting directory, run the following: 
+
+    npm install
+
+(8) Install Nodemon globally: 
+
+    npm install -g nodemon
+
+(9) Start the server with Nodemon with the following command: 
+
+    nodemon
 
 (10) Open in VS code: ![open in vs code (express_basicRouting)](https://user-images.githubusercontent.com/35668707/67629301-e1af6e00-f830-11e9-9e0f-a5e93e5b64f2.JPG)
 
