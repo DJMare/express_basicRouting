@@ -25,7 +25,7 @@ COMMAND PROMPT
 
 (6) Once the process is complete, navigate into the express_basicRouting directory: 
 
-  cd express_basicRouting 
+    cd express_basicRouting 
 
 (7) Now in the express_basicRouting directory, run the following: 
 
