@@ -1,4 +1,4 @@
-# express_basicRouting
+# Express_basicRouting
 A basic express app that based on the URL, displays different data onto the page.
 
 COMMAND PROMPT
